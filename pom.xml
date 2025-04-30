@@ -24,7 +24,7 @@
 		<nexus.host.url>http://13.201.47.70:8082/</nexus.host.url>
 		<sonar.host.url>http://172.24.126.122:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>sqp_a9b7c30014d258b6bb35b984cc785519cdeafd65</sonar.password> 
+		<sonar.token>sqp_a9b7c30014d258b6bb35b984cc785519cdeafd65</sonar.token> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
